@@ -1,0 +1,5 @@
+Ich habe die Aufgabe alleine Bearbeitet, da ich finde, dass es in der kurzen Zeit online schwierig geworden wäre die Gruppenarbeit zu koordinieren und der Arbeitsaufwand dadurch deutlich gesteigert worden wäre.
+
+Alle Funktion werden in der Datei main.c durch Kommentare über der Funktion beschrieben und es wird kurz auf die Funktionsweise eingegangen.
+
+Außer der Datei habe ich noch 4 Test Dateien mit zufälligen Texten auf den verschiedenen Sprachen erstellt.
